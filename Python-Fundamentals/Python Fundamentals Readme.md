@@ -19,20 +19,17 @@ Performed operations like addition, subtraction, multiplication, and division us
 ###  Step 3: User Input
 Collected user input using `input()` and converted input data types using functions like `int()` and `str()`.
 
-###  Step 4: Function Creation
+### Step 4: List Data Types
+Understood tha basics of the list data type using `[]` to  and how to index specific values from a list.
+
+### Step 5: Conditional Statements
+Used `if`, `elif`, and `else` to add logic to programs. Learned to compare values, make decisions, and respond dynamically
+
+###  Step 6: Function Creation
 Defined reusable blocks of logic using `def`. Practiced writing, calling, and nesting functions.
 
-###  Step 5: Practice Challenges
-Completed embedded mini-challenges such as:
-- Reassigning variables
-- Creating a simple input-based calculator
-- Writing and calling a user-defined function
-
-###  Step 6: Conditional Statements
-Used `if`, `elif`, and `else` to add logic to programs. Learned to compare values, make decisions, and respond dynamically.
-
 ###  Step 7: Loops and Iteration
-Used `while` loops to repeat actions until a condition was met. Combined loops with conditionals and user input to build interactive behavior.
+Used `while` loops to repeat actions until a condition was met and `for` loops to iterate through a list of values. Combined loops with conditionals and user input to build interactive behavior.
 
 ---
 
@@ -61,7 +58,7 @@ The final challenge brings everything together into a playable terminal-based ga
 ##  How to Run the Game
 
 1. Clone this repository or download the notebook:
-   - `python-guessing-game.ipynb` (or `.py` version if exported)
+   - `Python-Fundamentals.ipynb` (or `.py` version if exported)
 
 2. Run the code in:
    - Jupyter Notebook
