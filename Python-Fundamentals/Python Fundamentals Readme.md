@@ -48,7 +48,7 @@ The final challenge brings everything together into a playable terminal-based ga
 ###  Concepts Reinforced
 
 - Importing modules (`random`)
-- Loops (`while`)
+- Loops (`while`, `for`)
 - Conditional logic (`if`, `elif`, `else`)
 - Type conversion and input validation
 - Feedback messages and iteration
