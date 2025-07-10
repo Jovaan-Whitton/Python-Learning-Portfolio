@@ -11,7 +11,7 @@ Each subfolder represents a different concept, skill, or challenge — from vari
 
 | Project | Description |
 |--------|-------------|
-| [`Python Fundamentals`](./Python-Fundamentals/) | A beginner-friendly notebook exploring variables, user input, and functions with embedded practice challenges |
+| [Python Fundamentals](./Python-Fundamentals/) | A beginner-friendly notebook exploring variables, user input, and functions with embedded practice challenges |
 | *Coming Soon* | Data structures, loops, file I/O, web scraping, automation, and more |
 
 ---
